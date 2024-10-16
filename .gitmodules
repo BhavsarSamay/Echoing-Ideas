@@ -1,0 +1,3 @@
+[submodule "Django-and-React-Blog"]
+	path = Django-and-React-Blog
+	url = https://github.com/BhavsarSamay/Echoing-Ideas.git
